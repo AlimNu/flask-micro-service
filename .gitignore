@@ -1,0 +1,14 @@
+# ignore all logs
+*.log
+bin/
+.dbdata/
+__pycache__
+MANIFEST
+dist/
+docs/_build/
+docs/locale/
+node_modules/
+tests/coverage_html/
+tests/.coverage
+build/
+tests/report/
